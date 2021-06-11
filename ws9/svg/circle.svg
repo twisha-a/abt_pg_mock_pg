@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <circle cx="30" cy="30" r="30"
+    style="stroke: none;
+           fill:#984321" />
+    <circle cx="30" cy="30" r="16"
+    style="stroke: white;
+           fill: white" />
+    <circle cx="30" cy="30" r="14"
+    style="stroke: #984321;
+           fill: #984321" />
+    <circle cx="30" cy="30" r="12"
+    style="stroke: white;
+           fill: white" />
+    <circle cx="30" cy="30" r="10"
+    style="stroke: #984321;
+           fill: #984321" />
+    <circle cx="30" cy="30" r="8"
+    style="stroke: white;
+           fill: white" />
+    <circle cx="30" cy="30" r="6"
+    style="stroke: #984321;
+           fill: #984321" />
+    <circle cx="30" cy="30" r="4"
+    style="stroke: white;
+           fill: white" />
+</svg>
